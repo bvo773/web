@@ -1,0 +1,82 @@
+body{
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+
+iframe{
+  border: solid black 2px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-container{
+  background-color: #06283D;
+  position: relative;
+  padding: 100px 75px;
+}
+
+.valkyrie{
+  width: 100%;
+}
+
+.middle-container{
+  background-color: #256D85;
+  padding-bottom: 50px;
+}
+
+.apex-profile {
+ padding-top: 50px;
+}
+.apex-logo {
+  display: block;
+  margin: 0 auto 50px;
+}
+.video {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.fifa-profile {
+  padding-top: 50px;
+}
+.fifa-logo{
+  display: block;
+  margin: 0 auto 50px;
+}
+
+.twitter-profile{
+  padding: 50px 50px;
+}
+
+.twitter-pic {
+  width: 50%;
+  border: solid #EAF6F6 5px;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #06283D;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
